@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm  Arpit Karn 
 - 👀 I’m interested in Web Development & Bug Bounty
 - 🌱 I’m currently learning Web Development 
-- 💬 My Portfolio : ###  https://arpitkarn.me
+- 💬 My Portfolio :  https://arpitkarn.me
 - 👯 Ready for Collaboration & internship
 - 📫 How to reach me: arpit.karn.ak@gmail.com  
 - 📫 LinkedIn: https://www.linkedin.com/in/arpitkarnak
