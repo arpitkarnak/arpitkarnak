@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Let me tell you about myself
 
 <!--
 **arpitkarnak/arpitkarnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm  Arpit Karn 
+👀 I’m interested in Web Development & Bug Bounty
+🌱 I’m currently learning Web Development 
+💬 My Portfolio : https://arpitkarn.me
+👯 Ready for Collaboration & internship
+📫 How to reach me: arpit.karn.ak@gmail.com  
+📫 LinkedIn: https://www.linkedin.com/in/arpitkarnak
+
+
+
+
